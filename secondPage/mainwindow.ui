@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1137</width>
+    <height>654</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>0</y>
+      <width>1091</width>
+      <height>581</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="14" column="1">
+      <widget class="QLabel" name="label_25">
+       <property name="text">
+        <string>Глаза, выражение</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLabel" name="label_11">
+       <property name="text">
+        <string>Вес собаки</string>
+       </property>
+      </widget>
+     </item>
+     <item row="6" column="0">
+      <widget class="QLineEdit" name="lineEdit_17"/>
+     </item>
+     <item row="8" column="0">
+      <widget class="QLineEdit" name="lineEdit_19"/>
+     </item>
+     <item row="9" column="1">
+      <widget class="QLabel" name="label_20">
+       <property name="text">
+        <string>Обхват черепа перед ушами</string>
+       </property>
+      </widget>
+     </item>
+     <item row="14" column="0">
+      <widget class="QLineEdit" name="lineEdit_25"/>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLineEdit" name="lineEdit_13"/>
+     </item>
+     <item row="6" column="1">
+      <widget class="QLabel" name="label_17">
+       <property name="text">
+        <string>Обхват пясти</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QLabel" name="label_12">
+       <property name="text">
+        <string>Высота в холке</string>
+       </property>
+      </widget>
+     </item>
+     <item row="12" column="1">
+      <widget class="QLabel" name="label_23">
+       <property name="text">
+        <string>Половой диморфизм</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QLabel" name="label_14">
+       <property name="text">
+        <string>Высота в локте</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QLineEdit" name="lineEdit_14"/>
+     </item>
+     <item row="7" column="0">
+      <widget class="QLineEdit" name="lineEdit_18"/>
+     </item>
+     <item row="15" column="0">
+      <widget class="QLineEdit" name="lineEdit_26"/>
+     </item>
+     <item row="0" column="0">
+      <widget class="QLineEdit" name="lineEdit_11"/>
+     </item>
+     <item row="4" column="1">
+      <widget class="QLabel" name="label_15">
+       <property name="text">
+        <string>Глубина груди</string>
+       </property>
+      </widget>
+     </item>
+     <item row="5" column="1">
+      <widget class="QLabel" name="label_16">
+       <property name="text">
+        <string>Обхват груди</string>
+       </property>
+      </widget>
+     </item>
+     <item row="17" column="1">
+      <widget class="QPushButton" name="pushButton">
+       <property name="text">
+        <string>Далее</string>
+       </property>
+      </widget>
+     </item>
+     <item row="13" column="0">
+      <widget class="QLineEdit" name="lineEdit_24"/>
+     </item>
+     <item row="15" column="1">
+      <widget class="QLabel" name="label_26">
+       <property name="text">
+        <string>Уши</string>
+       </property>
+      </widget>
+     </item>
+     <item row="11" column="1">
+      <widget class="QLabel" name="label_22">
+       <property name="text">
+        <string>Общий вид и тип</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLabel" name="label_13">
+       <property name="text">
+        <string>Косая длина туловища</string>
+       </property>
+      </widget>
+     </item>
+     <item row="16" column="0">
+      <widget class="QLineEdit" name="lineEdit_27"/>
+     </item>
+     <item row="12" column="0">
+      <widget class="QLineEdit" name="lineEdit_23"/>
+     </item>
+     <item row="11" column="0">
+      <widget class="QLineEdit" name="lineEdit_22"/>
+     </item>
+     <item row="9" column="0">
+      <widget class="QLineEdit" name="lineEdit_20"/>
+     </item>
+     <item row="13" column="1">
+      <widget class="QLabel" name="label_24">
+       <property name="text">
+        <string>Голова</string>
+       </property>
+      </widget>
+     </item>
+     <item row="16" column="1">
+      <widget class="QLabel" name="label_27">
+       <property name="text">
+        <string>Зубы</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QLineEdit" name="lineEdit_12"/>
+     </item>
+     <item row="10" column="0">
+      <widget class="QLineEdit" name="lineEdit_21"/>
+     </item>
+     <item row="7" column="1">
+      <widget class="QLabel" name="label_18">
+       <property name="text">
+        <string>Длина головы</string>
+       </property>
+      </widget>
+     </item>
+     <item row="5" column="0">
+      <widget class="QLineEdit" name="lineEdit_16"/>
+     </item>
+     <item row="10" column="1">
+      <widget class="QLabel" name="label_21">
+       <property name="text">
+        <string>Обхват морды у основания</string>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QLineEdit" name="lineEdit_15"/>
+     </item>
+     <item row="8" column="1">
+      <widget class="QLabel" name="label_19">
+       <property name="text">
+        <string>Длина морды</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1137</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
